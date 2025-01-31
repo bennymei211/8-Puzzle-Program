@@ -1,0 +1,45 @@
+1. Enter the number of hours it took you to complete the project between
+   the <<< and >>> signs below (eg, <<<10>>>).
+
+   <<<13>>>
+   
+2. Enter the difficulty level (1: very easy; 5: very difficult) of the project
+   between <<< and >>> signs below (eg, <<<3>>>).
+
+   <<<5>>>
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Kristin Qi         TA           Cleared up confusion on how I needed to use nested for loops and if
+                                   statements in the constructor for hamming, manhattan, and blankPos.
+
+   Kyle Clapper       TA           Cleared up confusion on whether or not a board is solvable based on whether
+                                   its size is even or odd and whether its inversion count is even or odd. (Piazza)
+
+   Prateeksha Bhojaraj TA          Cleared up confusion on how to push the goal board and its previous boards onto
+                                   the instance variable "solution"'s stack using a loop. Also cleared up confusion
+                                   on the arguments of the SearchNode inserted into MinPQ<SearchNode> pq in the last
+                                   part of the constructor. (Piazza)
+
+   Swaminathan Iyer    Teacher     Cleared up confusion on the arguments of the SearchNode inserted into pq in the last
+                                   part of the constructor. Also cleared up confusion on the conditions in which a new
+                                   SearchNode should be inserted into pq. (Piazza)
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   This project was very difficult and had me thinking really hard about the concept behind it. For Problem 1 I often
+   had to think very hard about a board, how it moves, its solvability, etc. even during times that I was not directly
+   working on the code/project. Something that helped me a lot, other than seeking advice from Piazza, was drawing the
+   boards and using trial and error to figure out things such as the row-major position equation. The hints in
+   Gradescope were also very helpful. Reading and understanding the context behind the project is also very important. I
+   could have solved a problem(inversion count and solvability), that I asked on Piazza, by myself if I had just read
+   the context to the project and understood it better. Both parts of the project were very confusing, but as I slowly
+   started to understand it and got my code right, by the time I got my code right I was able to understand their
+   concepts. I enjoyed doing the project, but it was also very frustrating to do. This project definitely taught me a
+   lot about the concepts behind them.
